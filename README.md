@@ -35,11 +35,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/AhmedAbdoDev/your-regex-tester.git](https://github.com/AhmedAbdoDev/your-regex-tester.git)
+    git clone https://github.com/AhmedAbdoDev/Regex-Tester.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd your-regex-tester
+    cd Regex-Tester
     ```
 3.  Install the dependencies:
     ```bash
